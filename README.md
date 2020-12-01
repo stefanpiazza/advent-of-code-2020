@@ -1,4 +1,4 @@
-# advent-of-code-2020
+# Advent of Code - 2020
 
-## Day 1
-[link](src/day-1)
+### Day 1
+[Solution](src/day-1)
