@@ -1,19 +1,8 @@
 const data = require("./data");
 
-const twoSum = (data, target) => {
-  const tempData = {};
-
-  for (let i = 0; i < data.length; i += 1) {
-    let difference = target - data[i];
-
-    if (tempData[difference] && tempData[difference] !== i) {
-      return data[i] * data[tempData[difference]];
-    } else {
-      tempData[data[i]] = i;
-    }
-  }
-};
+const twoSum = require("./two-sum");
 
 const twoSumResult = twoSum(data, 2020);
+const [i, j] = twoSumResult;
 
-console.log({ twoSumResult });
+console.log(data[i] * data[j]);
