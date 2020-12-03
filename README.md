@@ -8,3 +8,8 @@
 
 [Part - 1](src/day-2)
 [Part - 2](src/day-2)
+
+### Day 3
+
+[Part - 1](src/day-3)
+[Part - 2](src/day-3)
