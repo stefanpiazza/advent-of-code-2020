@@ -13,3 +13,8 @@
 
 [Part - 1](src/day-3)
 [Part - 2](src/day-3)
+
+### Day 4
+
+[Part - 1](src/day-4)
+[Part - 2](src/day-4)
