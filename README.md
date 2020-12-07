@@ -18,3 +18,7 @@
 
 [Part - 1](src/day-4)
 [Part - 2](src/day-4)
+
+### Day 5
+
+[Part - 1](src/day-5)
