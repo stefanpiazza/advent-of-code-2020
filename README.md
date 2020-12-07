@@ -22,3 +22,8 @@
 ### Day 5
 
 [Part - 1](src/day-5)
+
+### Day 6
+
+[Part - 1](src/day-6)
+[Part - 2](src/day-6)
