@@ -27,3 +27,9 @@
 
 [Part - 1](src/day-6)
 [Part - 2](src/day-6)
+
+### Day 7
+
+### Day 8
+
+[Part - 1](src/day-8)
